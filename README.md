@@ -1,4 +1,4 @@
-# Clone do instagram
+# Clone do instagram 📸
 
 ![Clone Instagram](https://i.imgur.com/S2MnNam.png "Clone Instagram")
 
