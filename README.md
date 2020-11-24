@@ -21,4 +21,5 @@ Foi adicionado icone na aba do navegador com o código gerado através da págin
 - JavaScript
 - CSS
 - Json
+- jQuery
 
